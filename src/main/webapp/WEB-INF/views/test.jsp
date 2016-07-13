@@ -82,7 +82,7 @@
 
 	<script>
 	
-		var bno = 123239;
+		var bno = 1024;
 		
 		getPageList(1);
 
